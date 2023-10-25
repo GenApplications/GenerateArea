@@ -5,18 +5,19 @@
 </h1>
 
 
-> **Note**
-> GenerateArea will soon be deprecated. Please transition to using GeneratePanel, when it's avaliable for an improved experience.
+> **Warning**
+> GenerateArea has been deprecated and is no longer supported. A new solution, GeneratePanel, will be announced soon.
+> For more information, check our [deprecation notice](https://github.com/GenerateApps/GA-Deprecation-Notice).
 
 
 ## What is GenerateArea?
-GenerateArea is an free, open source & easy-to-use hosting account and support management system for MyOwnFreeHost. It is a fork of [Xera](https://github.com/mahtab2003/Xera), a discontinued client area. It currently has the features listed below:
+GenerateArea is an free, open source & easy-to-use hosting account and support management system for MyOwnFreeHost. It is a fork of [Xera](https://github.com/mahtab2003/Xera). It currently has the features listed below:
 
 [![Licence](https://img.shields.io/badge/Licence-GPL_2.0-orange)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-v0.1.1-informational)](https://github.com/GenerateApps/GenerateArea/releases/latest)
 ![Build](https://img.shields.io/badge/Build-Passed-brightgreen)
 ![Interface](https://img.shields.io/badge/Interface-Tabler-lightgreen)
-![Development](https://img.shields.io/badge/Development-Decrepated_Soon-inactive)
+![Development](https://img.shields.io/badge/Development-Stopped-inactive)
 ![Dependencies](https://img.shields.io/badge/Dependencies-PHP,_MySQL,_OpenSSL,_cUrl-red)
 
 ### Features
