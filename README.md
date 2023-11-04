@@ -6,7 +6,7 @@
 
 
 > **Warning**
-> GenerateArea has been deprecated and is no longer supported. A new solution, GeneratePanel, will be announced soon.
+> GenerateArea has been deprecated and is no longer supported. A new solution, xBilling, will be announced soon.
 > For more information, check our [deprecation notice](https://github.com/GenerateApps/GA-Deprecation-Notice).
 
 
