@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="GenerateArea" src="https://raw.githubusercontent.com/GenApplications/GenerateArea/dev/assets/default/img/GenerateArea logo.png" height="200">
+	<img alt="GenerateArea" src="https://raw.githubusercontent.com/GenerateApps/GenerateArea/dev/assets/default/img/GenerateArea logo.png" height="200">
 </h1>
 
 
@@ -11,7 +11,7 @@
 GenerateArea is an free, open source & easy-to-use hosting account and support management system for MyOwnFreeHost. It is a fork of [Xera](https://github.com/mahtab2003/Xera). It currently has the features listed below:
 
 [![Licence](https://img.shields.io/badge/Licence-GPL_2.0-orange)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-v0.1.1-informational)](https://github.com/GenApplications/GenerateArea/releases/latest)
+[![Version](https://img.shields.io/badge/Version-v0.1.1-informational)](https://github.com/GenerateApps/GenerateArea/releases/latest)
 ![Build](https://img.shields.io/badge/Build-Passed-brightgreen)
 ![Interface](https://img.shields.io/badge/Interface-Tabler-lightgreen)
 ![Development](https://img.shields.io/badge/Development-Stopped-inactive)
@@ -41,7 +41,7 @@ Your server needs to meet the following minimum requirements to run GenerateArea
 
 ### Installation 
 The installation of GenerateArea is much easier than you think!
-- Download the GenerateArea installation files [here](https://github.com/GenApplications/GenerateArea/releases/latest). Alternatively, if you want the latest development version you can get it [here](https://github.com/GenApplications/GenerateArea/archive/refs/heads/dev.zip).
+- Download the GenerateArea installation files [here](https://github.com/GenerateApps/GenerateArea/releases/latest). Alternatively, if you want the latest development version you can get it [here](https://github.com/GenerateApps/GenerateArea/archive/refs/heads/dev.zip).
 - Extract the file and upload the contents to your web hosting account. 
 - Create a new database for GenerateArea.
 - Go to ```https://{your.domain}/{garea-directory}/install.php``` and click on the 'Get Started' button.
@@ -70,11 +70,8 @@ Here are some widely used SMTP services. They have free plans with some limitati
 - [Smtp2go](https://www.smtp2go.com/)
 - [Brevo (formerly Sendinblue)](https://www.brevo.com/)
 - Gmail SMTP
-### Help
-If you require assistance, please proceed to [our Discord server](https://discord.gg/n94HFXyA7Z), where you can find the answers to many questions and also ask your own.  
-You can also [open an issue here](https://github.com/GenApplications/GenerateArea/issues/new) if you have discovered a bug or have an issue, although the server is still the preferred way, especially for feature requests. In any way, please ensure your topic has not been previously discussed, and if it has contribute to that discussion instead of making a new one when you can. You can also submit feature requests [here](https://forms.gle/YgUobtoeMSLTxUc16).
 
 ## Copyright
-This build was created by [ChippyTech](https://github.com/chippytech) and maintained by [GenApplications](https://github.com/GenApplications). Code released under [the GPL-2.0 license](LICENSE).  
+This build was created by [ChippyTech](https://github.com/chippytech) and maintained by [GenerateApps](https://github.com/GenerateApps). Code released under [the GPL-2.0 license](LICENSE).  
 Fork of the client area [Xera](https://github.com/mahtab2003/Xera).
 
